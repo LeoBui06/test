@@ -17,6 +17,8 @@ public class Calcolatrice {
 			}
 			s = s + addendo;
 		}
+		
+		System.out.println("kat");
 		return s;
 		
 	}
