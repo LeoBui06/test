@@ -7,7 +7,7 @@ public class Calcolatrice {
 		double s = 0;
 		for(double addendo : addendi) {
 			if( addendo < 0) {
-				System.out.println("addendo negativo");
+				System.out.println("addendo negativo"); 
 			}
 			if( addendo == 0) {
 				System.out.println("addendo è 0");
